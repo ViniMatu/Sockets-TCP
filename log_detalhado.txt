@@ -1,0 +1,325 @@
+Aguardando 1 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 261.23 Mbps
+Aguardando 1 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 266.23 Mbps
+Aguardando 1 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 253.71 Mbps
+Aguardando 1 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 268.16 Mbps
+Aguardando 1 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 254.92 Mbps
+Aguardando 2 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 133.15 Mbps
+cliente 2: 131.04 Mbps
+Aguardando 2 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 166.30 Mbps
+cliente 2: 99.30 Mbps
+Aguardando 2 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 147.14 Mbps
+cliente 2: 113.80 Mbps
+Aguardando 2 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 167.53 Mbps
+cliente 2: 99.30 Mbps
+Aguardando 2 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 155.71 Mbps
+cliente 2: 102.55 Mbps
+Aguardando 3 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 84.59 Mbps
+cliente 2: 85.42 Mbps
+cliente 3: 95.95 Mbps
+Aguardando 3 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 53.01 Mbps
+cliente 2: 103.14 Mbps
+cliente 3: 109.66 Mbps
+Aguardando 3 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 66.09 Mbps
+cliente 2: 95.92 Mbps
+cliente 3: 106.68 Mbps
+Aguardando 3 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 104.97 Mbps
+cliente 2: 62.28 Mbps
+cliente 3: 97.40 Mbps
+Aguardando 3 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 103.89 Mbps
+cliente 2: 55.32 Mbps
+cliente 3: 108.54 Mbps
+Aguardando 4 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 62.55 Mbps
+cliente 2: 79.27 Mbps
+cliente 3: 58.41 Mbps
+cliente 4: 62.32 Mbps
+Aguardando 4 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 97.69 Mbps
+cliente 2: 41.25 Mbps
+cliente 3: 87.13 Mbps
+cliente 4: 40.25 Mbps
+Aguardando 4 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 62.58 Mbps
+cliente 2: 53.59 Mbps
+cliente 3: 55.69 Mbps
+cliente 4: 92.73 Mbps
+Aguardando 4 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 98.01 Mbps
+cliente 2: 48.98 Mbps
+cliente 3: 45.18 Mbps
+cliente 4: 71.60 Mbps
+Aguardando 4 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 51.71 Mbps
+cliente 2: 54.88 Mbps
+cliente 3: 101.05 Mbps
+cliente 4: 57.56 Mbps
+Aguardando 5 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 26.81 Mbps
+cliente 2: 74.91 Mbps
+cliente 3: 56.89 Mbps
+cliente 4: 51.19 Mbps
+cliente 5: 54.64 Mbps
+Aguardando 5 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 50.88 Mbps
+cliente 2: 28.92 Mbps
+cliente 3: 85.77 Mbps
+cliente 4: 67.48 Mbps
+cliente 5: 30.74 Mbps
+Aguardando 5 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 54.26 Mbps
+cliente 2: 62.82 Mbps
+cliente 3: 46.14 Mbps
+cliente 4: 62.10 Mbps
+cliente 5: 40.87 Mbps
+Aguardando 5 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 47.52 Mbps
+cliente 2: 47.73 Mbps
+cliente 3: 67.82 Mbps
+cliente 4: 35.62 Mbps
+cliente 5: 67.14 Mbps
+Aguardando 5 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 70.73 Mbps
+cliente 2: 75.38 Mbps
+cliente 3: 24.14 Mbps
+cliente 4: 48.61 Mbps
+cliente 5: 47.16 Mbps
+Aguardando 6 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 48.86 Mbps
+cliente 2: 27.52 Mbps
+cliente 3: 57.39 Mbps
+cliente 4: 29.71 Mbps
+cliente 5: 57.67 Mbps
+cliente 6: 43.15 Mbps
+Aguardando 6 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 41.67 Mbps
+cliente 2: 50.03 Mbps
+cliente 3: 47.35 Mbps
+cliente 4: 27.61 Mbps
+cliente 5: 46.81 Mbps
+cliente 6: 51.68 Mbps
+Aguardando 6 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 35.44 Mbps
+cliente 2: 48.61 Mbps
+cliente 3: 71.89 Mbps
+cliente 4: 35.75 Mbps
+cliente 5: 36.75 Mbps
+cliente 6: 36.93 Mbps
+Aguardando 6 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 33.63 Mbps
+cliente 2: 41.28 Mbps
+cliente 3: 55.93 Mbps
+cliente 4: 52.61 Mbps
+cliente 5: 45.02 Mbps
+cliente 6: 34.93 Mbps
+Aguardando 6 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 19.45 Mbps
+cliente 2: 19.34 Mbps
+cliente 3: 22.07 Mbps
+cliente 4: 19.07 Mbps
+cliente 5: 44.74 Mbps
+cliente 6: 143.17 Mbps
+Aguardando 7 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 51.67 Mbps
+cliente 2: 33.86 Mbps
+cliente 3: 43.43 Mbps
+cliente 4: 58.10 Mbps
+cliente 5: 33.88 Mbps
+cliente 6: 22.71 Mbps
+cliente 7: 22.58 Mbps
+Aguardando 7 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 36.04 Mbps
+cliente 2: 79.20 Mbps
+cliente 3: 22.73 Mbps
+cliente 4: 22.12 Mbps
+cliente 5: 38.91 Mbps
+cliente 6: 22.54 Mbps
+cliente 7: 42.19 Mbps
+Aguardando 7 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 33.68 Mbps
+cliente 2: 32.64 Mbps
+cliente 3: 34.12 Mbps
+cliente 4: 33.11 Mbps
+cliente 5: 58.08 Mbps
+cliente 6: 18.20 Mbps
+cliente 7: 56.53 Mbps
+Aguardando 7 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 26.47 Mbps
+cliente 2: 26.44 Mbps
+cliente 3: 49.36 Mbps
+cliente 4: 49.25 Mbps
+cliente 5: 37.10 Mbps
+cliente 6: 26.30 Mbps
+cliente 7: 49.57 Mbps
+Aguardando 7 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 45.12 Mbps
+cliente 2: 21.43 Mbps
+cliente 3: 45.63 Mbps
+cliente 4: 46.05 Mbps
+cliente 5: 22.91 Mbps
+cliente 6: 45.72 Mbps
+cliente 7: 38.84 Mbps
+Aguardando 8 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 65.96 Mbps
+cliente 2: 24.99 Mbps
+cliente 3: 24.79 Mbps
+cliente 4: 22.58 Mbps
+cliente 5: 23.95 Mbps
+cliente 6: 46.70 Mbps
+cliente 7: 25.05 Mbps
+cliente 8: 28.98 Mbps
+Aguardando 8 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 20.48 Mbps
+cliente 2: 38.20 Mbps
+cliente 3: 23.99 Mbps
+cliente 4: 47.46 Mbps
+cliente 5: 23.42 Mbps
+cliente 6: 20.56 Mbps
+cliente 7: 44.34 Mbps
+cliente 8: 44.66 Mbps
+Aguardando 8 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 23.80 Mbps
+cliente 2: 34.44 Mbps
+cliente 3: 35.76 Mbps
+cliente 4: 21.80 Mbps
+cliente 5: 35.34 Mbps
+cliente 6: 18.42 Mbps
+cliente 7: 36.42 Mbps
+cliente 8: 58.37 Mbps
+Aguardando 8 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 40.33 Mbps
+cliente 2: 31.05 Mbps
+cliente 3: 40.62 Mbps
+cliente 4: 18.51 Mbps
+cliente 5: 20.45 Mbps
+cliente 6: 64.07 Mbps
+cliente 7: 10.55 Mbps
+cliente 8: 40.37 Mbps
+Aguardando 8 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 19.41 Mbps
+cliente 2: 20.77 Mbps
+cliente 3: 36.01 Mbps
+cliente 4: 37.05 Mbps
+cliente 5: 41.11 Mbps
+cliente 6: 34.11 Mbps
+cliente 7: 41.31 Mbps
+cliente 8: 34.72 Mbps
+Aguardando 9 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 25.10 Mbps
+cliente 2: 59.72 Mbps
+cliente 3: 17.22 Mbps
+cliente 4: 30.11 Mbps
+cliente 5: 9.89 Mbps
+cliente 6: 32.73 Mbps
+cliente 7: 18.35 Mbps
+cliente 8: 37.33 Mbps
+cliente 9: 35.05 Mbps
+Aguardando 9 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 32.88 Mbps
+cliente 2: 15.31 Mbps
+cliente 3: 9.70 Mbps
+cliente 4: 25.03 Mbps
+cliente 5: 28.61 Mbps
+cliente 6: 14.74 Mbps
+cliente 7: 15.41 Mbps
+cliente 8: 15.37 Mbps
+cliente 9: 107.79 Mbps
+Aguardando 9 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 10.67 Mbps
+cliente 2: 34.87 Mbps
+cliente 3: 19.92 Mbps
+cliente 4: 40.84 Mbps
+cliente 5: 29.09 Mbps
+cliente 6: 21.27 Mbps
+cliente 7: 17.63 Mbps
+cliente 8: 37.33 Mbps
+cliente 9: 54.11 Mbps
+Aguardando 9 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 20.17 Mbps
+cliente 2: 20.58 Mbps
+cliente 3: 60.13 Mbps
+cliente 4: 37.47 Mbps
+cliente 5: 22.28 Mbps
+cliente 6: 20.03 Mbps
+cliente 7: 21.71 Mbps
+cliente 8: 24.52 Mbps
+cliente 9: 37.24 Mbps
+Aguardando 9 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 22.32 Mbps
+cliente 2: 23.10 Mbps
+cliente 3: 23.16 Mbps
+cliente 4: 35.66 Mbps
+cliente 5: 11.92 Mbps
+cliente 6: 41.82 Mbps
+cliente 7: 33.51 Mbps
+cliente 8: 35.47 Mbps
+cliente 9: 35.46 Mbps
+Aguardando 10 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 14.10 Mbps
+cliente 2: 20.14 Mbps
+cliente 3: 14.09 Mbps
+cliente 4: 15.69 Mbps
+cliente 5: 34.49 Mbps
+cliente 6: 61.50 Mbps
+cliente 7: 33.94 Mbps
+cliente 8: 45.35 Mbps
+cliente 9: 20.43 Mbps
+cliente 10: 7.17 Mbps
+Aguardando 10 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 34.16 Mbps
+cliente 2: 34.11 Mbps
+cliente 3: 33.16 Mbps
+cliente 4: 33.29 Mbps
+cliente 5: 20.70 Mbps
+cliente 6: 47.34 Mbps
+cliente 7: 18.66 Mbps
+cliente 8: 16.39 Mbps
+cliente 9: 18.18 Mbps
+cliente 10: 9.87 Mbps
+Aguardando 10 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 21.32 Mbps
+cliente 2: 53.01 Mbps
+cliente 3: 29.83 Mbps
+cliente 4: 33.20 Mbps
+cliente 5: 27.10 Mbps
+cliente 6: 20.44 Mbps
+cliente 7: 17.30 Mbps
+cliente 8: 30.65 Mbps
+cliente 9: 22.01 Mbps
+cliente 10: 9.59 Mbps
+Aguardando 10 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 25.62 Mbps
+cliente 2: 14.39 Mbps
+cliente 3: 32.27 Mbps
+cliente 4: 17.97 Mbps
+cliente 5: 25.43 Mbps
+cliente 6: 17.83 Mbps
+cliente 7: 34.66 Mbps
+cliente 8: 43.39 Mbps
+cliente 9: 18.35 Mbps
+cliente 10: 33.84 Mbps
+Aguardando 10 cliente(s) na porta 5000 (bloco recv: 65536 bytes)...
+cliente 1: 48.55 Mbps
+cliente 2: 10.72 Mbps
+cliente 3: 25.19 Mbps
+cliente 4: 28.55 Mbps
+cliente 5: 24.22 Mbps
+cliente 6: 49.14 Mbps
+cliente 7: 21.75 Mbps
+cliente 8: 14.71 Mbps
+cliente 9: 14.85 Mbps
+cliente 10: 25.61 Mbps
